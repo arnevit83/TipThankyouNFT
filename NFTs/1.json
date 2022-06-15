@@ -1,0 +1,15 @@
+{
+  "description": "Thank you for your kind gesture",
+  "image": "https://ipfs.io/ipfs/QmdE8Mv26Vn3JWkyBpVkPyGEF7iPF71AQMTVCdcAFPjMDg?filename=1.jpg",
+  "name": "1",
+  "attributes": [
+    {
+      "trait_type": "Thankfullness",
+      "value": 100
+    },
+    {
+      "trait_type": "Gratitude",
+      "value": 100
+    }
+  ]
+}

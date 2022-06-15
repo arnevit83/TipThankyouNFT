@@ -1,0 +1,7 @@
+live:
+  - name: Ethereum
+    networks:
+      - chainid: 5777
+        host: http://127.0.0.1:7545
+        id: ganache-local-gui
+        name: Ganache (GUI)

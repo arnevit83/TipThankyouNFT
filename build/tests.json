@@ -1,0 +1,21 @@
+{
+  "contracts": {
+    "MockV3Aggregator": "9e734e161b5cafcca52a917f10266f5a8bc05b28",
+    "OpenZeppelin/openzeppelin-contracts@4.6.0/Counters": "1ce946f6a4eaa185320328620ccf999b9e86db7c",
+    "OpenZeppelin/openzeppelin-contracts@4.6.0/ERC721": "790f84d8a99b4200a76a1ba4a29a5b153fe19883",
+    "OpenZeppelin/openzeppelin-contracts@4.6.0/Strings": "1ce946f6a4eaa185320328620ccf999b9e86db7c",
+    "ThankyouNFT": "3da3a6c4c003a9953bfbc50508d06c275b74cbbc",
+    "TipThankyouNFT": "742a73a926688fca0c37520d79098b02fb28ba2d",
+    "TipsDemo": "b76ae6dcedefdd7a10abf5574150fbd3e0425a6e"
+  },
+  "tests": {
+    "tests/test_cv.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": "FF.",
+      "sha1": "2d2f2bc2fcd2fc20cfec15188e448fa4193cf26c",
+      "txhash": []
+    }
+  },
+  "tx": {}
+}
