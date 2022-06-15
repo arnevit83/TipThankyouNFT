@@ -2,7 +2,7 @@
 
 Here is an example project of a etherium contract running on Brownie
 
-Here is a working [example](https://duncanpeach.com/skills)
+Here is a working [example](https://duncanpeach.com/)
 
 ## Installation
 
